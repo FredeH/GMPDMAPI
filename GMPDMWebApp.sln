@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMPDMWebApp", "GMPDMWebApp\GMPDMWebApp.csproj", "{3DB68CA9-DCD3-44FB-8593-9D912C80DAA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB68CA9-DCD3-44FB-8593-9D912C80DAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB68CA9-DCD3-44FB-8593-9D912C80DAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB68CA9-DCD3-44FB-8593-9D912C80DAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB68CA9-DCD3-44FB-8593-9D912C80DAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {048FEB55-8A22-420B-BA8A-2879D77EF8BB}
+	EndGlobalSection
+EndGlobal
